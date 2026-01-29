@@ -6,3 +6,5 @@ liquidhaskell-tutorial.cabal
 _site
 dist
 dist-newstyle
+.updo
+updo
