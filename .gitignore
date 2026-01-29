@@ -8,3 +8,5 @@ dist
 dist-newstyle
 .updo
 updo
+project-versions.nix
+project-nix/ghc-9.2.5/sha256map.nix
