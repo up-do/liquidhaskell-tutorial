@@ -1,0 +1,9 @@
+user-message: "WARNING: This stack project is generated."
+resolver: lts-22.6
+
+# We have 1 package.
+packages:
+  - ./.
+
+extra-deps: []
+

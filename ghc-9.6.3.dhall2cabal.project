@@ -1,0 +1,12 @@
+-- WARNING: This cabal project is generated.
+program-options
+  ghc-options: -fhide-source-paths
+import: https://stackage.org/lts-22.6/cabal.config
+
+-- We have 1 package.
+packages:
+    .
+
+-- Version equality constraints.
+
+

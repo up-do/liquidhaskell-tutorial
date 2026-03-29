@@ -1,0 +1,8 @@
+-- WARNING: This cabal project is generated.
+program-options
+  ghc-options: -fhide-source-paths
+import: https://stackage.org/nightly-2024-10-11/cabal.config
+
+import: ./project-cabal/pkgs.config
+build-info: True
+
